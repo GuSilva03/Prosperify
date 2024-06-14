@@ -41,7 +41,7 @@ function Footer() {
                     <SocialIcons>
                         <SocialIconLink href="/" target="_blank" arial-label="Facebook"><FaFacebook/></SocialIconLink>
                         <SocialIconLink href="/" target="_blank" arial-label="Instagram"><FaInstagram/></SocialIconLink>
-                        <SocialIconLink href="/" target="_blank" arial-label="Twitter"><FaTwitter/></SocialIconLink>
+                        <SocialIconLink href="https://x.com/ImmGustavoSilva" target="_blank" arial-label="Twitter"><FaTwitter/></SocialIconLink>
                         <SocialIconLink href="/" target="_blank" arial-label="Github"><FaGithub/></SocialIconLink>
                     </SocialIcons>
             </SocialMediaWrap>
